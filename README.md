@@ -7,7 +7,7 @@
 
 <h3>Инструменты</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,kubernetes,docker,terraform,ansible,gitlab,github,githubactions,git,prometheus,grafana,aws,nginx,postgres,py,bash&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=linux,kubernetes,docker,terraform,ansible,gitlab,github,githubactions,git,prometheus,grafana,aws,nginx,postgres,py,bash&perline=8" alt="tech stack" />
 </p>
 
 <h3>Фокус в работе</h3>
